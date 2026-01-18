@@ -12,19 +12,19 @@
     {
       "name": "rpg-prd",
       "description": "RPG-style PRD (Product Requirements Document) generator with progressive disclosure",
-      "source": "./rpg-prd",
+      "source": "./",
       "strict": false,
       "skills": [
-        "./rpg-prd/SKILL.md"
+        "./rpg-prd"
       ]
     },
     {
       "name": "taskmaster",
       "description": "RPG-style task management system for software projects",
-      "source": "./taskmaster",
+      "source": "./",
       "strict": false,
       "skills": [
-        "./taskmaster/SKILL.md"
+        "./taskmaster"
       ]
     }
   ]
