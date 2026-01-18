@@ -1,0 +1,31 @@
+{
+  "name": "ff4415-skills",
+  "owner": {
+    "name": "ff4415",
+    "email": "ff4415.ff4415@gmail.com"
+  },
+  "metadata": {
+    "description": "ff4415 plugins skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rpg-prd",
+      "description": "RPG-style PRD (Product Requirements Document) generator with progressive disclosure",
+      "source": "./rpg-prd",
+      "strict": false,
+      "skills": [
+        "./rpg-prd/SKILL.md"
+      ]
+    },
+    {
+      "name": "taskmaster",
+      "description": "RPG-style task management system for software projects",
+      "source": "./taskmaster",
+      "strict": false,
+      "skills": [
+        "./taskmaster/SKILL.md"
+      ]
+    }
+  ]
+}
