@@ -1,8 +1,0 @@
-{
-  "name": "rpg-prd",
-  "description": "RPG-style PRD (Product Requirements Document) generator with progressive disclosure",
-  "version": "1.0.0",
-  "author": {
-    "name": "Local User"
-  }
-}
